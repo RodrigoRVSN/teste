@@ -1,5 +1,5 @@
 document.getElementById('end').style.display = "none";
-var dateFinal = new Date('May 4, 2021 00:00:00').getTime();
+var dateFinal = new Date('Feb 4, 2021 00:00:00').getTime();
 function timer() {
     var now = new Date().getTime();
     gap = dateFinal - now;
