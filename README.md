@@ -1,2 +1,6 @@
 ## Temporizador feito com HTML, CSS e JS (responsivo, usando getTime()) 
-Disponível em https://timer-murex.vercel.app/.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/75763403/111888698-abdace80-89bd-11eb-8b69-43f5a533b58f.png)
+
